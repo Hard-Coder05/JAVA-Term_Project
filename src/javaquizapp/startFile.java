@@ -9,7 +9,7 @@ package javaquizapp;
  *
  * @author Siddharth Mishra
  */
-public class ProggQuiz {
+public class startFile {
 
     /**
      * @param args the command line arguments
