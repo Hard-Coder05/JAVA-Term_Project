@@ -105,7 +105,6 @@
         </Component>
         <Component class="javax.swing.JProgressBar" name="ProBar">
           <Properties>
-            <Property name="maximum" type="int" value="300"/>
             <Property name="stringPainted" type="boolean" value="true"/>
           </Properties>
         </Component>

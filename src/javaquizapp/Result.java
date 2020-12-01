@@ -42,7 +42,6 @@ double gp=0.0;
         lbl.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         lbl.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        ProBar.setMaximum(300);
         ProBar.setStringPainted(true);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
