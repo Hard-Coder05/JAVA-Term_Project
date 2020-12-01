@@ -1,23 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package javaquizapp;
-
 /**
- *
  * @author Siddharth Mishra
  */
 public class StartPage extends javax.swing.JFrame {
-
     /**
      * Creates new form StartPage
      */
     public StartPage() {
         initComponents();
     }
-
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -127,7 +118,6 @@ public class StartPage extends javax.swing.JFrame {
         this.setVisible(false);
         new Quiz().setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
-
     /**
      * @param args the command line arguments
      */
@@ -162,7 +152,6 @@ public class StartPage extends javax.swing.JFrame {
             }
         });
     }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
